@@ -1,0 +1,2 @@
+gcc -o t tetris.c -lSDL -lSDL_mixer -lSDL_ttf  -lSDL_gfx 
+
